@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">StreetRacer</string>
+
+    <string name="description">Description</string>
+
+    <string name="howfar">How far</string>
+
+    <string name="distance">Distance</string>
+
+    <string name="besttime">Best Time</string>
+
+    <string name="besttimenick">Nick</string>
+
+    <string name="rating">Rating</string>
+
+    <string name="minimalratingstr">Minimal Rating</string>
+
+    <string name="minimaldistancestr">Minimal Distance</string>
+
+    <string name="minimaltime">Minimal Time</string>
+
+    <string name="stringwihtinthedesc">String within the description</string>
+
+    <string name="minstr">min</string>
+
+    <string name="maxstr">max</string>
+
+    <string name="min">MIN</string>
+
+    <string name="sstr">S</string>
+
+    <string name="msstr">MS</string>
+
+    <string name="hours">H</string>
+
+    <string name="orderby">Order by</string>
+
+    <string name="okstr">Ok</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="descending">Descending</string>
+
+    <string name="ascending">Ascending</string>
+
+</resources>
